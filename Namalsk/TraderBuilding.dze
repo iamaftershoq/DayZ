@@ -1,0 +1,43 @@
+{
+    "MapName": "namalsk",
+    "CameraPosition": [
+        6397.34619140625,
+        15.063437461853028,
+        8792.4169921875
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Garage_Row_Big",
+            "DisplayName": "Land_Garage_Row_Big",
+            "Position": [
+                6412.25,
+                15.850000381469727,
+                8812.6796875
+            ],
+            "Orientation": [
+                90.0,
+                -4.999999523162842,
+                1.9999998807907105
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_FuelStation_Feed",
+            "DisplayName": "Land_FuelStation_Feed",
+            "Position": [
+                6401.67626953125,
+                13.180498123168946,
+                8795.4111328125
+            ],
+            "Orientation": [
+                -78.90629577636719,
+                7.708200931549072,
+                -4.756428241729736
+            ],
+            "Scale": 0.995790421962738,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}
