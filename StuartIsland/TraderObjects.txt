@@ -1,6 +1,6 @@
 // ------------------------------------------------------ Trader Markers -------------------------------------------------------
 
-// TARA:
+// Stuart:
 
 <TraderMarker> 			0 									// Trader ID
 <TraderMarkerPosition>	1796.85,    4.1,     3197.3 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
@@ -33,7 +33,7 @@
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 	
-// TARA:
+// Stuart:
 
 <Object> 			SurvivorF_Irena						// Classname
 <ObjectPosition>	1796.85,    4.1,     3197.3		// Coordinate X, 	Coordinate Y, 	Coordinate Z
