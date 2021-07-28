@@ -1,6 +1,6 @@
 // ------------------------------------------------------ Trader Markers -------------------------------------------------------
 
-// TARA:
+// Rostow:
 
 <TraderMarker> 			0 									// Trader ID
 <TraderMarkerPosition>	7576.918,    374.639,     7444.303 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
@@ -33,7 +33,7 @@
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 	
-// TARA:
+// Rostow:
 
 <Object> 			SurvivorF_Irena						// Classname
 <ObjectPosition>	7576.918,    374.630,     7444.303		// Coordinate X, 	Coordinate Y, 	Coordinate Z
