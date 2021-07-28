@@ -1,0 +1,127 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// TARA:
+
+<TraderMarker> 			0 									// Trader ID
+<TraderMarkerPosition>	6414.90,    12.68,     8820.55 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerSafezone>	100									// Safezone Radius
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	6414.97,    12.57,    8817.41
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	6415.15,    12.45,    8814.29
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	6415.23,    12.35,    8811.67
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	6415.13,	12.23,	8808.07
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	6409.90,	12.54,	8803.67
+<TraderMarkerSafezone>	100
+<VehicleSpawn>			6397.06,		13.7,	8803.70		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-42,		0,			0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+// TARA:
+
+<Object> 			SurvivorF_Irena						// Classname
+<ObjectPosition>	6414.90,    12.68,     8820.55		// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<ObjectOrientation>	-90, 0,			0			// Yaw, 			Pitch, 			Roll
+//<ObjectAttachment>	NPC_DUMMY						// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
+<ObjectAttachment>	BoxCerealCrunchin					// Add an Item to the Traders Inventory;
+<ObjectAttachment>	SurgicalGloves_White
+<ObjectAttachment>	Bandana_Polkapattern
+<ObjectAttachment>	MiniDress_PinkChecker
+<ObjectAttachment>	DressShoes_White
+
+<Object> 			SurvivorF_Keiko
+<ObjectPosition>	6414.97,    12.57,    8817.41
+<ObjectOrientation>	-90, 0,			0
+<ObjectAttachment>	Wrench
+<ObjectAttachment>	SledgeHammer
+<ObjectAttachment>	WorkingGloves_Brown
+<ObjectAttachment>	ConstructionHelmet_White
+<ObjectAttachment>	Shirt_BlueCheck
+<ObjectAttachment>	CanvasPants_Blue
+<ObjectAttachment>	WorkingBoots_Grey
+
+<Object> 			SurvivorM_Seth
+<ObjectPosition>	6415.15,    12.45,    8814.29
+<ObjectOrientation>	-90, 0,			0
+<ObjectAttachment>	FirefighterAxe
+<ObjectAttachment>	SVD
+<ObjectAttachment>	PSO1Optic
+<ObjectAttachment>	M4A1
+<ObjectAttachment>	M4_RISHndgrd
+<ObjectAttachment>	Universallight
+<ObjectAttachment>	M4_OEBttstck
+<ObjectAttachment>	M68Optic
+<ObjectAttachment>	M4_Suppressor
+<ObjectAttachment>	OMNOGloves_Gray
+<ObjectAttachment>	MilitaryBeret_CDF
+<ObjectAttachment>	PlateCarrierVest
+<ObjectAttachment>	TTsKOJacket_Camo
+<ObjectAttachment>	TTSKOPants
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	AliceBag_Camo
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	6415.23,    12.35,    8811.67
+<ObjectOrientation>	-90, 0,			0
+<ObjectAttachment>	Mag_STANAG_30Rnd
+<ObjectAttachment>	SportGlasses_Orange
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	TacticalShirt_Olive
+<ObjectAttachment>	SmershVest
+<ObjectAttachment>	BDUPants
+<ObjectAttachment>	TTSKOBoots
+<ObjectAttachment>	AssaultBag_Ttsko
+
+<Object> 			SurvivorF_Frida
+<ObjectPosition>	6415.13,	12.23,	8808.07
+<ObjectOrientation>	-90, 0,			0
+<ObjectAttachment>	ThickFramesGlasses
+<ObjectAttachment>	WomanSuit_Black
+<ObjectAttachment>	SlacksPants_Black
+<ObjectAttachment>	DressShoes_Black
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	6409.90,	12.54,	8803.67
+<ObjectOrientation>	-90, 0,			0
+<ObjectAttachment>	LugWrench
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	JumpsuitJacket_Blue
+<ObjectAttachment>	JumpsuitPants_Blue
+<ObjectAttachment>	HikingBootsLow_Blue
+
+
+<Object>			Land_Misc_Well_Pump_Blue
+<ObjectPosition>	6404.07,	12.2,	8796.61
+<ObjectOrientation>	0,			0,			0
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	6409.05,	12.93,	8812.91
+<ObjectOrientation>	0,			0,			0
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	5502.57,	119.734,	8142.93
+<ObjectOrientation>	0,			0,			0
+
+<Object>			DC_BankingATM
+<ObjectPosition>	6408.53, 	13.36,	8823.90
+<ObjectOrientation>	0,			0,			0
+
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
