@@ -1,6 +1,6 @@
 // ------------------------------------------------------ Trader Markers -------------------------------------------------------
 
-// TARA:
+// Namalsk:
 
 <TraderMarker> 			0 									// Trader ID
 <TraderMarkerPosition>	6414.90,    12.68,     8820.55 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
@@ -32,7 +32,7 @@
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
 	
-// TARA:
+// Namalsk:
 
 <Object> 			SurvivorF_Irena						// Classname
 <ObjectPosition>	6414.90,    12.68,     8820.55		// Coordinate X, 	Coordinate Y, 	Coordinate Z
